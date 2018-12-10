@@ -1,0 +1,11 @@
+Assignment 21.1
+
+5. Problem Statement
+1. Use the below given data set
+Data Set
+2. Perform the below given activities:
+a. Apply PCA to the dataset and show proportion of variance
+b. Perform PCA using SVD approach
+c. Show the graphs of PCA components
+
+ANSWER: not covered in class
